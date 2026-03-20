@@ -1,0 +1,20 @@
+2026-03-20 16:05:00,608 | INFO | [mirai] 🚀 Neural Hub Booting...
+2026-03-20 16:05:02,976 | INFO | [mirai] ✨ Link Established.
+2026-03-20 16:05:02,977 | INFO | 🎤 Mic sensing active
+2026-03-20 16:05:02,977 | INFO | [mirai] 👂 Downlink active
+2026-03-20 16:05:02,978 | INFO | 🔊 Neural speaker active
+2026-03-20 16:05:04,980 | WARNING | Warning: there are non-data parts in the response: ['text', 'thought'], returning concatenated data result from data parts, check out the non data parts for full response from model.
+2026-03-20 16:05:08,617 | INFO | [mirai] 📞 Tool: performance_optimize
+2026-03-20 16:05:23,550 | INFO | AI: Hoş geldiniz efendim. Sistem durumunda yüksek yük mevcut. Performans optimizasyonu için bir analiz başlatıyorum. Efendim, detaylı performans analizi sonucunda GPU sıcaklığının 89 derece olduğunu tespit ettim. Bu durum genel sistem yükünü etkiliyor olabilir. Akıllı optimizasyon başlatarak performansı iyileştiriyorum.
+2026-03-20 16:06:44,725 | INFO | USER:  Merhaba.
+2026-03-20 16:06:49,483 | INFO | AI: Merhaba efendim, Mirai emrinizde. Nasıl yardımcı olabilirim?
+2026-03-20 16:06:59,931 | INFO | USER:  Şu
+2026-03-20 16:07:00,114 | INFO | USER:  an
+2026-03-20 16:07:00,363 | INFO | USER: lık
+2026-03-20 16:07:00,502 | INFO | USER:  bir
+2026-03-20 16:07:00,529 | INFO | USER:  şeye gerek yok. Teşekkürler.
+2026-03-20 16:07:07,721 | INFO | AI: Rica ederim efendim. Arka planda performans iyileştirmeleri devam ediyor olacak. İhtiyaç duyduğunuz anda buradayım.
+2026-03-20 16:07:10,509 | INFO | USER:  Tama
+2026-03-20 16:07:10,710 | INFO | USER: mdır. Teşekkür ederim.
+2026-03-20 16:07:17,372 | INFO | AI: Her zaman efendim. Arka plandaki optimizasyonlar tamamlandığında bilgi vereceğim.
+2026-03-20 16:11:14,801 | ERROR | [mirai] 🎤 Mic fatal: cannot schedule new futures after shutdown

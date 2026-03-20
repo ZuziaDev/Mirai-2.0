@@ -1,0 +1,49 @@
+{
+  "minecraft_strip_mine": [
+    {
+      "action": "slot",
+      "slot": 1
+    },
+    {
+      "action": "move_forward",
+      "seconds": 1.4
+    },
+    {
+      "action": "attack",
+      "seconds": 1.5
+    },
+    {
+      "action": "wait",
+      "seconds": 0.3
+    }
+  ],
+  "minecraft_bridge_short": [
+    {
+      "action": "crouch",
+      "seconds": 0.6
+    },
+    {
+      "action": "use",
+      "repeat": 3
+    },
+    {
+      "action": "move_backward",
+      "seconds": 0.7
+    }
+  ],
+  "minecraft_escape": [
+    {
+      "action": "look",
+      "dx": 220,
+      "dy": 0
+    },
+    {
+      "action": "sprint_forward",
+      "seconds": 2.0
+    },
+    {
+      "action": "jump",
+      "repeat": 1
+    }
+  ]
+}

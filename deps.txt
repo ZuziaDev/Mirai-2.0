@@ -1,0 +1,17 @@
+google-genai
+google-generativeai
+psutil
+pyaudio
+opencv-python
+numpy
+mss
+Pillow
+pyautogui
+playwright
+duckduckgo-search
+requests
+beautifulsoup4
+youtube-transcript-api
+Send2Trash
+pywebview
+pyinstaller

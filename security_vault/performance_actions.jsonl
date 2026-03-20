@@ -1,0 +1,21 @@
+{"ts": 1773959559, "action": "network_monitor_on", "data": {"target": "1.1.1.1"}}
+{"ts": 1773959559, "action": "network_monitor_off", "data": {}}
+{"ts": 1773960156, "action": "overlay_on", "data": {}}
+{"ts": 1773960167, "action": "overlay_off", "data": {}}
+{"ts": 1773960183, "action": "network_monitor_on", "data": {"target": ""}}
+{"ts": 1773960281, "action": "prep_game", "data": {}}
+{"ts": 1773960282, "action": "monitor_on", "data": {}}
+{"ts": 1773960282, "action": "auto_game_on", "data": {}}
+{"ts": 1773960299, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960312, "action": "profile_boost", "data": {"profile": "gaming"}}
+{"ts": 1773960317, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960323, "action": "auto_game_on", "data": {"game": "Minecraft* 1.21.11 - Çok Oyunculu (3. Taraf Sunucu)", "profile": "gaming"}}
+{"ts": 1773960336, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960344, "action": "profile_boost", "data": {"profile": "gaming"}}
+{"ts": 1773960355, "action": "auto_game_on", "data": {"game": "Minecraft* 1.21.11", "profile": "gaming"}}
+{"ts": 1773960366, "action": "profile_boost", "data": {"profile": "gaming"}}
+{"ts": 1773960373, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960376, "action": "auto_game_on", "data": {"game": "Minecraft* 1.21.11", "profile": "gaming"}}
+{"ts": 1773960390, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960406, "action": "restore", "data": {"source": "thermal_guard"}}
+{"ts": 1773960422, "action": "restore", "data": {"source": "thermal_guard"}}

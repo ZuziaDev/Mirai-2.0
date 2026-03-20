@@ -1,0 +1,12 @@
+{
+  "spotify_client_id": "9bc1087a09234846a01d93c24a58e116",
+  "spotify_client_secret": "",
+  "spotify_refresh_token": "",
+  "spotify_redirect_uri": "http://127.0.0.1:4381/callback",
+  "spotify_scopes": "user-read-playback-state user-modify-playback-state user-library-modify user-read-currently-playing",
+  "spotify_device_name": "",
+  "spotify_device_id": "",
+  "spotify_auth_updated_at": "",
+  "spotify_user_display_name": "",
+  "spotify_user_id": ""
+}
